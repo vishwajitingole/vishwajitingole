@@ -4,9 +4,7 @@
 <h1 align="center">Hi 👋, I'm Vishwajit Ingole</h1>
 <h3 align="center">A passionate Full-Stack developer from Pune</h3>
 
-<img align="right" alt="Coding" width="400" height="400" src="https://media4.giphy.com/media/umYMU8G2ixG5mJBDo5/200w.webp?cid=ecf05e47ozodrax1rh5272ur926y2ivl5sxuug273bking32&ep=v1_gifs_search&rid=200w.webp&ct=g">
-
-<img align="left" alt="Coding" width="400" height="400" src="[https://assets-global.website-files.com/5e9aa66fd3886aa2b4ec01ca/5fa5462124f6db4a79de1899_webdevelopercoding.gif](https://camo.githubusercontent.com/071dbff8b1bed0028ffb7e7df56124ae1c3fcee1fa3d3cdb029994e01dbcb684/68747470733a2f2f6173736574732d676c6f62616c2e776562736974652d66696c65732e636f6d2f3565396161363666643338383661613262346563303163612f3566613534363231323466366462346137396465313839395f776562646576656c6f706572636f64696e672e676966)">
+<img align="center" alt="Coding" width="400" height="400" src="https://media4.giphy.com/media/umYMU8G2ixG5mJBDo5/200w.webp?cid=ecf05e47ozodrax1rh5272ur926y2ivl5sxuug273bking32&ep=v1_gifs_search&rid=200w.webp&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishwajit022&label=Profile%20views&color=0e75b6&style=flat" alt="vishwajit022" /> </p>
 
