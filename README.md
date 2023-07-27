@@ -1,12 +1,12 @@
-[![MasterHead]()]
+[![MasterHead](https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif)]
 
 
 <h1 align="center">Hi 👋, I'm Vishwajit Ingole</h1>
 <h3 align="center">A passionate Full-Stack developer from Pune</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/umYMU8G2ixG5mJBDo5/200w.webp?cid=ecf05e47ozodrax1rh5272ur926y2ivl5sxuug273bking32&ep=v1_gifs_search&rid=200w.webp&ct=g">
+<img align="right" alt="Coding" width="400" height="400" src="https://media4.giphy.com/media/umYMU8G2ixG5mJBDo5/200w.webp?cid=ecf05e47ozodrax1rh5272ur926y2ivl5sxuug273bking32&ep=v1_gifs_search&rid=200w.webp&ct=g">
 
-<img align="left" alt="Coding" width="400" src="https://assets-global.website-files.com/5e9aa66fd3886aa2b4ec01ca/5fa5462124f6db4a79de1899_webdevelopercoding.gif">
+<img align="left" alt="Coding" width="400" height="400" src="https://assets-global.website-files.com/5e9aa66fd3886aa2b4ec01ca/5fa5462124f6db4a79de1899_webdevelopercoding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishwajit022&label=Profile%20views&color=0e75b6&style=flat" alt="vishwajit022" /> </p>
 
