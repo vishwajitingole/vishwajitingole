@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Vishwajit Ingole</h1>
-<h3 align="center">A passionate Full-Stack developer from Pune</h3>
+<h3 align="center">A Passionate Full-Stack developer from Pune</h3>
 
 
 
@@ -11,7 +11,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishwajit022" alt="vishwajit022" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
