@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Vishwajit Ingole</h1>
 <h3 align="center">A passionate Full-Stack developer from Pune</h3>
 
-<img align="center" alt="Coding" width="400" height="400" src="https://media4.giphy.com/media/umYMU8G2ixG5mJBDo5/200w.webp?cid=ecf05e47ozodrax1rh5272ur926y2ivl5sxuug273bking32&ep=v1_gifs_search&rid=200w.webp&ct=g">
+<img align="centre" alt="Coding" width="400" height="400" src="https://media4.giphy.com/media/umYMU8G2ixG5mJBDo5/200w.webp?cid=ecf05e47ozodrax1rh5272ur926y2ivl5sxuug273bking32&ep=v1_gifs_search&rid=200w.webp&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishwajit022&label=Profile%20views&color=0e75b6&style=flat" alt="vishwajit022" /> </p>
 
