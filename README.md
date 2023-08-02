@@ -1,4 +1,4 @@
-<img style="text-align:center;" alt="Coding" width="400" height="400" src="https://media4.giphy.com/media/umYMU8G2ixG5mJBDo5/200w.webp?cid=ecf05e47ozodrax1rh5272ur926y2ivl5sxuug273bking32&ep=v1_gifs_search&rid=200w.webp&ct=g" width="100%">
+<img style="text-align:center;" alt="Coding" width="400" height="400" src="https://media4.giphy.com/media/umYMU8G2ixG5mJBDo5/200w.webp?cid=ecf05e47ozodrax1rh5272ur926y2ivl5sxuug273bking32&ep=v1_gifs_search&rid=200w.webp&ct=g" width="100%" text-align="center">
 
 
 <h1 align="center">Hi 👋, I'm Vishwajit Ingole</h1>
