@@ -1,12 +1,3 @@
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Borel&display=swap" rel="stylesheet">
-
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Borel&family=Edu+SA+Beginner:wght@600&display=swap" rel="stylesheet">
-
-
 <div class="container">
 
 <img class="crazy"style="text-align:center;" alt="Coding" width="400" height="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="100%" style=" display: block;
