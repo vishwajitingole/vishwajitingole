@@ -1,6 +1,6 @@
 <div class="container">
 
-<img  width="400" height="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="100%" />
+<img  width="700" height="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="100%" />
 
 
 <h1 class="normal" align="center">Hi 👋, I'm Vishwajit Ingole</h1>
@@ -34,49 +34,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishwajit022&" alt="vishwajit022" /></p>
 </div>
 
-<style>
-.container{
-background-color:b9cfe0;
-margin:50 px;
-font-family: 'Borel', cursive;
-}
-.sub-container{
-background-color:white;
-border: outset #a8bcda;
-margin: 25px 50px;
-border-length:60px;
 
-}
-.crazy{
- margin: 50px;
-  width: auto;
-align:center;
-  padding: 10px;
-  border: 5px dotted;
-  
-}
-
-.view_count{
- margin: 50px;
- padding: 10px;
-border-radius: 20px;
-border-left-width: 20px;
-border-right-width: 20px;
-border-length:0px;
- border-style: double;
- text-align:center;
-  
-}
-.center{
-text-align:center;
-}
-
-.normal{
-font-family: 'Borel', cursive;
-font-family: 'Edu SA Beginner', cursive;
-}
-
-</style>
 
 </div>
 
