@@ -19,7 +19,7 @@ font-family: 'Borel', cursive;
   width: auto;
 text-align:center;
   padding: 10px;
-  border: 5px dotted;" alt="Coding" width="400" height="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="100%" style=" display: block;
+  border: 5px dotted;" alt="Coding" width="" height="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="100%" style=" display: block;
   margin-left: auto;
   margin-right: auto;
   width: 100;" >
