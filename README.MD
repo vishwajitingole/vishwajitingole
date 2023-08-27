@@ -19,10 +19,10 @@ font-family: 'Borel', cursive;
   width: auto;
 text-align:center;
   padding: 10px;
-  border: 5px dotted;" alt="Coding" width="" height="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="100%" style=" display: block;
+  border: 5px dotted;" alt="Coding"  src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="100%" style=" display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 100;" >
+  " >
 <h1 class="normal" style= "font-family: 'Borel', cursive;
 font-family: 'Edu SA Beginner', cursive;
 }" align="center">Hi 👋, I'm Vishwajit Ingole</h1>
