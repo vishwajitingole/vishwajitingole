@@ -22,7 +22,7 @@ text-align:center;
   border: 5px dotted;" alt="Coding" width="400" height="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="100%" style=" display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;" >
+  width: 100;" >
 <h1 class="normal" style= "font-family: 'Borel', cursive;
 font-family: 'Edu SA Beginner', cursive;
 }" align="center">Hi 👋, I'm Vishwajit Ingole</h1>
