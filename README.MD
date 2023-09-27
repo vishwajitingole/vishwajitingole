@@ -26,7 +26,7 @@ text-align:center;
 <h1 class="normal" style= "font-family: 'Borel', cursive;
 font-family: 'Edu SA Beginner', cursive;
 }" align="center">Hi 👋, I'm Vishwajit Ingole</h1>
-<h3 align="center">A Passionate Java Developer from Pune</h3>
+<h3 align="center">A Passionate Full Stack Developer from Pune</h3>
 <div >
 <p class="view_count" style =" margin: 50px;
  padding: 10px;
