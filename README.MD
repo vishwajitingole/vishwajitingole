@@ -56,7 +56,7 @@ border-length:60px;
 text-align:center;">
             <h3 align="left">Languages and Tools:</h3>
             <p align="left">
-                <a href="https://threejs.org/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaZbYD8rScPcr0XgPlEzR6AVH9D2xFcrGsSA&usqp=CAU"
+                <a href="https://threejs.org/" target="_blank" rel="noreferrer"> <img src="https://global.discourse-cdn.com/standard17/uploads/threejs/optimized/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751_2_744x750.png"
                         alt="tailwind" width="40" height="40" /> </a>
                 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" /> </a>
                 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" /> </a>
