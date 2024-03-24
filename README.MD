@@ -36,7 +36,7 @@ border-right-width: 20px;
 border-length:0px;
  border-style: double;
  text-align:center;
-  " align="left"> <img src="https://komarev.com/ghpvc/?username=vishwajit022&label=Profile%20views&color=0e75b6&style=flat" alt="vishwajit022" /> </p>
+  " align="left"> <img src="https://komarev.com/ghpvc/?username=vishwajitingole&label=Profile%20views&color=0e75b6&style=flat" alt="vishwajitingole" /> </p>
         </div>
         <div class="sub-container" style="background-color:white;
 border: outset #a8bcda;
@@ -44,7 +44,7 @@ margin: 25px 50px;
 border-length:60px;
 text-align:center;">
             <p align="left">
-                <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishwajit022" alt="vishwajit022" /></a>
+                <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishwajitingole" alt="vishwajitingole" /></a>
             </p>
         </div>
         <p align="left">
@@ -85,8 +85,8 @@ align:center;
         </div>
         <div class="black" style="border: outset #black;">
             <div class="center" style="text-align:center;">
-                <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishwajit022&show_icons=true&locale=en&layout=compact" alt="vishwajit022" /></p>
-                <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishwajit022&show_icons=true&locale=en" alt="vishwajit022" /></p>
+                <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishwajitingole&show_icons=true&locale=en&layout=compact" alt="vishwajitingole" /></p>
+                <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishwajitingole&show_icons=true&locale=en" alt="vishwajitingole" /></p>
             </div>
             <br>
             <div class="sub-container" style="background-color:white;
@@ -94,7 +94,7 @@ border: outset #a8bcda;
 margin: 25px 50px;
 border-length:60px;
 text-align:center;">
-                <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishwajit022&" alt="vishwajit022" /></p>
+                <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishwajitingole&" alt="vishwajitingole" /></p>
             </div>
         </div>
 </body>
