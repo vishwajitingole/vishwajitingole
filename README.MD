@@ -77,11 +77,7 @@ text-align:center;">
 
             </p>
         </div>
-        <div class="eksath" style=" margin: 50px;
-  width: 900px;
-align:center;
-  padding: 10px;
-  display:flex;">
+        <div class="eksath" style="margin: 50px; width: 900px; align:center; padding: 10px; display:flex;">
             <img class="withheadphone" autoplay src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b952whyi6b4c2gkk8rax6edeb6g2orvyxpg004nx3fmm&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g">
         </div>
         <div class="black" style="border: outset #black;">
