@@ -74,7 +74,6 @@ text-align:center;">
                 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" /> </a>
                 <a href="https://gsap.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" alt="tailwind" width="40" height="40" /> </a>
                 <a href="https://www.framer.com/motion/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXZwoiMCA5vybwYZyXJ-p1e7HkKWDjoTGVGQ&usqp=CAU" alt="Framer Motion" width="40" height="40" /> </a>
-
             </p>
         </div>
         <div class="eksath" style="margin: 50px; width: 900px; align:center; padding: 10px; display:flex;">
